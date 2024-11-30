@@ -1,0 +1,14 @@
+D:\VisualBC\Web Form\Web Form\bin\Web Form.dll.config
+D:\VisualBC\Web Form\Web Form\bin\Web Form.dll
+D:\VisualBC\Web Form\Web Form\bin\Web Form.pdb
+D:\VisualBC\Web Form\Web Form\obj\Debug\Web Form.csprojAssemblyReference.cache
+D:\VisualBC\Web Form\Web Form\obj\Debug\Web Form.csproj.CoreCompileInputs.cache
+D:\VisualBC\Web Form\Web Form\obj\Debug\Web Form.dll
+D:\VisualBC\Web Form\Web Form\obj\Debug\Web Form.pdb
+E:\backup 14 agustus 2020\VisualBC\Web Form\Web Form\bin\Web Form.dll.config
+E:\backup 14 agustus 2020\VisualBC\Web Form\Web Form\bin\Web Form.dll
+E:\backup 14 agustus 2020\VisualBC\Web Form\Web Form\bin\Web Form.pdb
+E:\backup 14 agustus 2020\VisualBC\Web Form\Web Form\obj\Debug\Web Form.csproj.AssemblyReference.cache
+E:\backup 14 agustus 2020\VisualBC\Web Form\Web Form\obj\Debug\Web Form.csproj.CoreCompileInputs.cache
+E:\backup 14 agustus 2020\VisualBC\Web Form\Web Form\obj\Debug\Web Form.dll
+E:\backup 14 agustus 2020\VisualBC\Web Form\Web Form\obj\Debug\Web Form.pdb
